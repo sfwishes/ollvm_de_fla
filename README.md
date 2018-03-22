@@ -1,7 +1,7 @@
 # ollvm_de_fla
 deobfuscation ollvm's fla
 
-only support for ios macho format file with arm instruction.
+only support for ios macho format file with thumb2 instruction.
 
 Reference
 
